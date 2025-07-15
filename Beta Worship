@@ -1,20 +1,100 @@
-<div class="song">
-  <div class="title">Open the eyes of my heart</div>
-  <div class="lyrics">
-    Open the eyes of my heart, Lord
-    Open the eyes of my heart
-    I want to see You
-    I want to see You
-    ...
-  </div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>My Lyrics Collection</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 20px auto;
+      padding: 10px 20px;
+      line-height: 1.5;
+      background: #f9f9f9;
+      color: #222;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 40px;
+      font-size: 2.5em;
+      color: #333;
+    }
+    .song {
+      margin-bottom: 50px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid #ddd;
+    }
+    .title {
+      font-weight: bold;
+      font-size: 1.8em;
+      margin-bottom: 12px;
+      color: #005a87;
+    }
+    .lyrics {
+      white-space: pre-wrap;
+      font-size: 1.1em;
+      color: #444;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Lyrics Collection</h1>
 
-<div class="song">
-  <div class="title">How Great Is Our God</div>
-  <div class="lyrics">
-    The splendor of a King, clothed in majesty
-    Let all the Earth rejoice
-    All the Earth rejoice
-    ...
+  <div class="song">
+    <div class="title">Open the eyes of my heart</div>
+    <div class="lyrics">
+Open the eyes of my heart, Lord
+Open the eyes of my heart
+I want to see You
+I want to see You
+
+Open the eyes of my heart, Lord
+Open the eyes of my heart
+I want to see You
+I want to see You
+
+To see You high and lifted up
+Shinin' in the light of Your glory
+Pour out Your power and love
+As we sing holy, holy, holy
+
+Open the eyes of my heart, Lord
+Open the eyes of my heart
+I want to see You
+I want to see You
+
+Open the eyes of my heart, Lord
+Open the eyes of my heart
+I want to see You
+I want to see You
+
+To see You high and lifted up
+Shinin' in the light of Your glory
+Pour out Your power and love
+As we sing holy, holy, holy
+
+To see You high and lifted up
+Shinin' in the light of Your glory
+Pour out Your power and love
+As we sing holy, holy, holy
+
+To see You high and lifted up
+Shinin' in the light of Your glory
+Pour out Your power and love
+As we sing holy, holy, holy
+
+Holy, holy, holy
+We cry holy, holy, holy
+You are holy, holy, holy
+I want to see you
+
+Holy, holy, holy
+How Great Is Our God
+
+Holy, holy, holy
+You are holy, holy, holy
+I want to see you
+    </div>
   </div>
-</div>
